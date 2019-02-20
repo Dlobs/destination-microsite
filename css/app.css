@@ -1,0 +1,145 @@
+.reveal {padding: 0;}
+.reveal-overlay {background-color: rgba(0,0,0,.85);}
+body {
+
+}
+.orbit-bullets{
+background-color:white;
+padding:0rem;
+margin:0;
+}
+.tabs-content{
+	margin-top:10rem;
+}
+.orbit{
+	padding:3rem 0;
+}
+
+.thumbnail img{
+	align-self: center;
+}
+.search{
+	align-content:right;
+}
+
+h4{
+	font-family: 'Oswald', sans-serif;
+	text-align:center;
+font-size:3rem;
+}
+header{
+	background-color:lightblue;
+	padding:1rem;
+}
+h2{
+	font-family: 'Oswald', sans-serif;
+	size:3rem;
+	float:center;
+	text-align:center;
+}
+
+
+.search{float:right;
+align-self:right;}
+
+.menu{
+	float:right;
+}
+
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	text-align:center;
+	font-size:3rem;
+}
+
+.menu {
+	font-family: 'Oswald', sans-serif;
+}
+
+.Skate-Spots{
+padding:4.5rem 0;
+background-color:lightblue;
+}
+
+
+
+
+p{
+	text-align:center;
+	font-family: 'Lato', bold; 
+
+}
+.head{
+	font-size:4rem;
+}
+
+.testimonials{
+	padding:0rem;
+}
+
+
+
+.Food-Spots{
+	padding:4.5rem 0;
+	background-color:dodgerblue;
+}
+
+.Food-Spots ul{
+list-style: none;
+}
+
+.pizza{
+	float:center;
+}
+
+.Sign-Up{
+	padding:4.5rem 0;
+background-color:dodgerblue;
+
+}
+
+.Night-Scene{
+	padding:4.5rem 0;
+	background-color:lightblue;
+
+}
+label{
+	font-family: 'Oswald', sans-serif;
+}
+footer{
+	padding:1.5rem 0;
+	background-color:white;
+
+}
+
+@media screen and (min-width:40em){
+	h1{
+		font-size:4rem;
+	}
+	h2{
+		font-size:2em;
+	}
+	h3{
+		font-size:4rem;
+	}
+}
+
+@media screen and (min-width: 40em){
+	h1{
+		font-size:5rem;}
+}
+
+i {
+  font-size: 30px;
+}
+
+#back-top {
+	color:black;
+  position: fixed;
+  bottom:20px;
+  right: 2%;
+  z-index: 100; }
+
+
+
